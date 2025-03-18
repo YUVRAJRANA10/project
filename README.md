@@ -81,5 +81,5 @@ git commit -m "Added new feature"
 This project is licensed under MIT License.
 
 ## 👥 Team & Contributors
-- Your Name
+- Yuvraj singh
 - Contributor Name
