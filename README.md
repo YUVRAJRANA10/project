@@ -87,5 +87,5 @@ This project is licensed under MIT License.
 ## 🖼️ UI Preview  
 Here’s a preview of the Caremate UI:  
 
-![Caremate Preview](https://github.com/YUVRAJRANA10/project/blob/main/ui-preview.png)
+![Caremate Preview](https://github.com/YUVRAJRANA10/project/blob/main/Screenshot%202025-03-18%20100024.png)
 
