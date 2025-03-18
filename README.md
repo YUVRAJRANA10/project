@@ -83,3 +83,9 @@ This project is licensed under MIT License.
 ## 👥 Team & Contributors
 - Yuvraj singh
 - Contributor Name
+- 
+## 🖼️ UI Preview  
+Here’s a preview of the Caremate UI:  
+
+![Caremate Preview](https://github.com/YUVRAJRANA10/project/blob/main/ui-preview.png)
+
